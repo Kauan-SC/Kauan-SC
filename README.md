@@ -44,7 +44,4 @@
   </table>
 </div>
 
----
-
-![Snake animation](https://raw.githubusercontent.com/Kauan-SC/Kauan-SC/output/dist/github-snake-dark.svg)
 
